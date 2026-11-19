@@ -1,0 +1,8 @@
+{
+  "name": "Media Pembelajaran Informatika SMP Kelas 7",
+  "description": "Aplikasi web pembelajaran interaktif Informatika SMP Kelas 7 tentang Literasi Digital: Informasi Privat vs. Publik, Keamanan Data Pribadi, dan Jejak Digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
